@@ -17,7 +17,12 @@ Here are some ideas to get you started:
 
 
 I'm a software engineer from INDIA
-
+- 🔭 I’m currently working on ReactJS
+- 🌱 I’m currently learning React Native
+- 👯 I’m looking to collaborate on Angular & React open source projects
+- 🤔 I’m looking for help with React and ThreeJs
+- 💬 Ask me about Angular, Node, React
+- 📫 How to reach me: shubham.dave001@gmail.com
 
 ## Connect with me
 
@@ -31,4 +36,4 @@ I'm a software engineer from INDIA
 
 <img align="left" alt="angular" src="https://img.shields.io/badge/angular%20-%2320232a.svg?&style=for-the-badge&logo=angular&logoColor=%2361DAFB" />
 <img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="reactjs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=reactjs&logoColor=white" />
+<img align="left" alt="reactjs" src="https://img.shields.io/badge/react.js%20-%2343853D.svg?&style=for-the-badge&logo=react&logoColor=black" />
