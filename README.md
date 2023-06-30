@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I'm a software engineer from INDIA
 - 🔭 I’m currently working on ReactJS
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning D3.js
 - 👯 I’m looking to collaborate on Angular & React open source projects
 - 🤔 I’m looking for help with React and ThreeJs
 - 💬 Ask me about Angular, Node, React
