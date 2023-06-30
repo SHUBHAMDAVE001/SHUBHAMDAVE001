@@ -22,7 +22,7 @@ I'm a software engineer from INDIA
 - 👯 I’m looking to collaborate on Angular & React open source projects
 - 🤔 I’m looking for help with React and ThreeJs
 - 💬 Ask me about Angular, Node, React
-- 📫 How to reach me: shubham.dave001@gmail.com
+- 📫 How to reach me: shubhamdaveofficial@gmail.com
 
 ## Connect with me
 
