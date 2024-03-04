@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-I'm a software engineer from INDIA
-- 🔭 I’m currently working on ReactJS
-- 🌱 I’m currently learning D3.js
+I'm a software engineer from BHARAT
+- 🔭 I’m currently working on ANGULAR
+- 🌱 I’m currently learning .NET
 - 👯 I’m looking to collaborate on Angular & React open source projects
-- 🤔 I’m looking for help with React and ThreeJs
+- 🤔 I’m looking for help with .NET, RxJS
 - 💬 Ask me about Angular, Node, React
 - 📫 How to reach me: shubhamdaveofficial@gmail.com
 
